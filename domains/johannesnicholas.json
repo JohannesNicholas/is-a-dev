@@ -1,0 +1,10 @@
+{
+  "description": "this a link to my personal website",
+  "owner": {
+    "username": "JohannesNicholas",
+    "email": "joe.o.nicholas@gmail.com"
+  },
+  "record": {
+    "CNAME": "johannes-nicholas.firebaseapp.com"
+  }
+}
